@@ -1,7 +1,7 @@
 version: "0.1-alpha"
 
 id: "cxzdcf"
-name: "My Html Course"
+name: "My Newest Html Course"
 lessons:
   - title: "What is HTML?"
     path: "lesson-01"
