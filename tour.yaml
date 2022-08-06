@@ -1,6 +1,6 @@
 version: "0.1-alpha"
 
-name: "My HTML Tour"
+name: "My HTML Tour;"
 lessons:
   - path: "lesson-01"
     title: "What is HTML?"
