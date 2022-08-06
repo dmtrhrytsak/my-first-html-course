@@ -1,8 +1,3 @@
-defaultCode:
-  - name: "index.html"
-    language: "html"
-  - name: "index.css"
-    language: "css"
 compiler:
   type: jsx
 editor:
